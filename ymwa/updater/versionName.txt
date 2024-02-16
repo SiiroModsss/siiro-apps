@@ -1,2 +1,2 @@
 versionName=2.0
-WebsiteUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
+webpageUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
