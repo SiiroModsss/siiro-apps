@@ -1,2 +1,2 @@
 versionName=36.2
-webpageUrl=https://ymmods.net/
+CHUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
