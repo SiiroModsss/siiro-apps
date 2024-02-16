@@ -1,2 +1,2 @@
-versionName=36.2
-CHUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
+versionName=2.0
+WebsiteUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
