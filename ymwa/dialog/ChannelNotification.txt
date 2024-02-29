@@ -1,2 +1,2 @@
-channelUrl=https://whatsapp.com/channel/0029VaLgcj830LKOHn3K3q0k
+channelUrl=https://whatsapp.com/channel/0029VaMT1etCsU9R6Rh7931S
 prefAlertChannelNotification=siiro_alert_channel_notification_0_check
